@@ -1,2 +1,3 @@
-# dataScience
-Projects that usage some data science libraries
+# Data Science 
+### Some studies for data science
+
